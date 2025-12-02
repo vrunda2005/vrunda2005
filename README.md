@@ -1,9 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Vrunda Patel</h1>
 
-## 🧠 About Me
+## About Me
 
-🎓 I'm a third-year B.Tech Computer Science student at **Ahmedabad University**  
-🤝 I enjoy collaborating on projects and contributing to open source
+- 🎓 I'm a final-year B.Tech Computer Science student at **Ahmedabad University** and Pursuing Minor in General Management.
 
 <details>
 <summary> Skills & Tools</summary>
