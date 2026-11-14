@@ -18,7 +18,6 @@ I'm a Computer Science and Engineering graduate from **Ahmedabad University** an
 
 - **Current work:** Odoo 19 ERP development using Python, PostgreSQL, and OWL
 - **Focus areas:** Backend engineering, RAG and LLM applications, system design
-- **Research:** Paper accepted at T4E 2026 on course-role patterns in academic curricula, using network analysis
 - **Education:** B.Tech in Computer Science and Engineering (2026), Ahmedabad University · Minor in General Management
 
 <br/>
@@ -34,8 +33,6 @@ I'm a Computer Science and Engineering graduate from **Ahmedabad University** an
 | **Frontend** | <img src="https://skillicons.dev/icons?i=react,tailwind&theme=dark" height="36" alt="React, Tailwind CSS" /> |
 | **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite&theme=dark" height="36" alt="PostgreSQL, MongoDB, SQLite" /> |
 | **Tools** | <img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman&theme=dark" height="36" alt="Docker, Git, GitHub, Linux, Postman" /> |
-
-<sub><b>ERP:</b> Odoo &nbsp;·&nbsp; <b>AI & Data:</b> LangChain, ChromaDB, Hugging Face, spaCy, RAG, Pandas, NumPy</sub>
 
 <br/>
 
