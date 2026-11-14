@@ -1,7 +1,7 @@
 <!-- ================= HEADER ================= -->
 
 <p align="center">
-  <img src="./header.svg" width="100%" alt="Vrunda Patel, Software Engineer: Backend and AI" />
+  <img src="./header.svg" width="100%" alt="Vrunda Patel, Engineer" />
 </p>
 
 <p align="center">
